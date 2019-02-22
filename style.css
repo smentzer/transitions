@@ -17,6 +17,7 @@
     transition-duration: 1s;
 }
 
+
 #ease {
     transition-timing-function: ease;
 }
@@ -39,4 +40,5 @@
 
 .move:hover {
     transform: translate(900px, 0);
+    background-color: #2a52be;
 }
