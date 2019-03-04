@@ -59,7 +59,7 @@ h1 {
 
 
 .scale:hover {
-    transform: scale(1.2)
+    transform: scale(3)
 }
 
 .translate:hover {
@@ -67,9 +67,9 @@ h1 {
 }
 
 .rotate:hover {
-    transform: rotate(180deg);
+    transform: rotate(360deg);
 }
 
 .skew:hover {
-    transform: skew(20deg);
+    transform: skew(30deg);
 }
